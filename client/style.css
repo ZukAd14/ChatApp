@@ -78,6 +78,13 @@ p {
   align-items: flex-end;
 }
 
+.message--bot {
+  .message__content {
+    background-color: #7fffd4;
+    color: #1f3a93;
+  }
+}
+
 .message--received {
     animation: fadeIn;
     animation-duration: 3s;
