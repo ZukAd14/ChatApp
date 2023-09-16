@@ -1,4 +1,4 @@
-[Live demo](https://chatapp.zuk14.repl.co){target="_blank"}
+[Live demo](https://chatapp.zuk14.repl.co target=_blank)
 
 Simple chat app using WebSocket for every user
 
