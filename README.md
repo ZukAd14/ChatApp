@@ -2,4 +2,4 @@
 
 Simple chat app using WebSocket for every user
 
-![Overwiev](https://i.ibb.co/V3rQkRV/1.png)  ![Chat](https://i.ibb.co/VJLYv1r/2.png)
+![Overwiev](https://i.ibb.co/V3rQkRV/1.png =200x100)  ![Chat](https://i.ibb.co/VJLYv1r/2.png)
